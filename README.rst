@@ -24,7 +24,7 @@
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+This work considers a regularization for such algorithms as Adam, OASIS for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments. The main difference from gradient descent is that Adam's and OASIS algorithm use information about previous gradients to update parameters of the model. 
 
 Research publications
 ===============================
@@ -33,6 +33,10 @@ Research publications
 Presentations at conferences on the topic of research
 ================================================
 1. 
+
+Supplementations
+================
+1. `Link review <https://docs.google.com/document/d/1im8zvwoDYq_3vtAg8KPysuXejV8MWR5zGIJ86DTluvA/edit?usp=sharing>`_.
 
 Software modules developed as part of the study
 ======================================================
